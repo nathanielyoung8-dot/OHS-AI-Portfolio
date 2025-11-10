@@ -56,6 +56,13 @@ This repo contains my **OHS Data & IoT Learning Roadmap**, hands-on projects, an
 | 🌐 **Phase 3:** IoT Integration | MQTT, AWS IoT Core, Raspberry Pi | Streaming and monitoring OHS data |
 | 📈 **Phase 4:** Insights & Dashboards | Plotly, Power BI | Reporting and visualization for decision support |
 | 🔄 **Phase 5:** Continuous Learning | AI in healthcare & workplace safety papers | Keeping models relevant and ethical |
+## 🧑‍💻 Learning Progress
+
+| Course | Institution | Focus | Status |
+|--------|--------------|--------|---------|
+| [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/) | HarvardX | Core Python Programming | 🟢 In Progress |
+| AI for Everyone | Coursera | AI Literacy & Ethics | ⚪ Planned |
+| Data Science for Occupational Health | Self-paced | Applying analytics to OHS data | ⚪ Planned |
 
 ---
 
