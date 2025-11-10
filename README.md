@@ -1,3 +1,8 @@
+## OHS AI Portfolio
+
+Smart, data-driven solutions to enhance occupational health and safety.  
+This portfolio showcases AI models, dashboards, and automation tools for workplace safety management and compliance.
+
 <p align="center">
   <img src="assets/ohs_banner.png" alt="OHS AI Portfolio Banner" width="800"/>
 </p>
